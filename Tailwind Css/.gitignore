@@ -1,0 +1,3 @@
+/node_modules
+# To ignore node_modules folder when it is being uploaded to your repo in github because it is too large
+#  npm init -y: to initialize the package.json
